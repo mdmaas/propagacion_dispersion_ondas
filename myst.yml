@@ -1,0 +1,11 @@
+version: 1
+project:
+  title: "Métodos Matemáticos en Propagación y Dispersión de Ondas"
+  description: "Contenidos del curso optativo: apuntes, guías de ejercicios y material complementario."
+  authors:
+    - Martín Maas
+site:
+  template: book-theme
+  nav:
+    - file: index.md
+    - file: unidad-1.md
