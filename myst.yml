@@ -4,6 +4,7 @@ project:
   description: "Contenidos del curso optativo: apuntes, guías de ejercicios y material complementario."
   authors:
     - Martín Maas
+  github: https://github.com/mdmaas/propagacion_dispersion_ondas
 site:
   template: book-theme
   nav:
