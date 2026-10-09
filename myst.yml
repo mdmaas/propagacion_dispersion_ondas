@@ -13,4 +13,12 @@ site:
     - file: unidad-2.md
     - file: unidad-3.md
     - file: unidad-4.md
-    - file: unidad-5.ipynb
+    - title: "Unidad 5: El método adjunto"
+      children:
+        - file: unidad-5.ipynb
+        - file: unidad-5-1.ipynb
+        - file: unidad-5-2.ipynb
+        - file: unidad-5-3.ipynb
+        - file: unidad-5-4.ipynb
+        - file: unidad-5-5.ipynb
+        - file: unidad-5-6.ipynb
