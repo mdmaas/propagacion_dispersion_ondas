@@ -20,5 +20,6 @@ project:
         - file: unidad-5-4.ipynb
         - file: unidad-5-5.ipynb
         - file: unidad-5-6.ipynb
+    - file: unidad-6.md
 site:
   template: book-theme
